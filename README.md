@@ -30,3 +30,5 @@ RoSA is your robotic shopping assistant, here to help you automate your shopping
 
 •	Close external apps to start your automation
 # License
+
+This project uses the following license https://github.com/Sylvesterg95/SylvesterProject/tree/add-license-1
