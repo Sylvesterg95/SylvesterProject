@@ -11,6 +11,7 @@ Technologies used
 •	Azure Data Studio
 
 Features
+
 •	Unattended robotic shopping system with UI Automation to select items and checkout successfully
 
 •	Azure Data Studio to develop Sql databases
