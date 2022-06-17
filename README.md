@@ -1,8 +1,8 @@
-Rosa
+# RoSA
 
 RoSA is your robotic shopping assistant, here to help you automate your shopping business. RoSA helps you shop for all your customers from online vendors. It provides customers individual expense reports sent via email.
 
-Technologies used
+# Technologies used
 
 •	Uipath Studio
 
@@ -10,7 +10,7 @@ Technologies used
 
 •	Azure Data Studio
 
-Features
+# Features
 
 •	Unattended robotic shopping system with UI Automation to select items and checkout successfully
 
@@ -20,7 +20,7 @@ Features
 
 •	Excel Automation to generate expense report
 
-Getting Started
+# Getting Started
 
 •	Must have the Pega website open in your web browser
 
@@ -29,3 +29,4 @@ Getting Started
 •	Open Ui Explorer to begin your automation process
 
 •	Close external apps to start your automation
+# License
